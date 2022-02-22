@@ -10,24 +10,24 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub ManjunathPrabhakar Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/ManjunathPrabhakar/github-example-package</url>
+            <name>GitHub shahedullahm Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/shahedullahm/github-example-package</url>
         </repository>
     </distributionManagement>
     <developers>
         <developer>
-            <name>Manjunath Prabhakar</name>
-            <email>manjunath189@gmail.com</email>
-            <organization>com.github.manjunathprabhakar</organization>
-            <organizationUrl>https://github.com/ManjunathPrabhakar/github-example-package</organizationUrl>
+            <name>Shahedullah</name>
+            <email>shahedullahm@dontknow.com</email>
+            <organization>com.github.shahedullahm</organization>
+            <organizationUrl>https://github.com/shahedullahm/github-example-package</organizationUrl>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/ManjunathPrabhakar/github-example-package.git</connection>
-        <developerConnection>scm:git:https://github.com/ManjunathPrabhakar/github-example-package.git
+        <connection>scm:git:git://github.com/shahedullahm/github-example-package.git</connection>
+        <developerConnection>scm:git:https://github.com/shahedullahm/github-example-package.git
         </developerConnection>
-        <url>https://github.com/ManjunathPrabhakar/github-example-package</url>
+        <url>https://github.com/shahedullahm/github-example-package</url>
         <tag>github-example-package</tag>
     </scm>
 
